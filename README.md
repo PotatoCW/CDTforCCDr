@@ -1,2 +1,3 @@
 # cdt_for_ccdr
-Based on CausalDiscoveryToolbox, modified for CCDr algorithm, removed torch
+CausalDiscoveryToolbox: https://github.com/FenTechSolutions/CausalDiscoveryToolbox
+This repo is only for using CCDr algorithm from CausalDiscoveryToolbox, pytorch dependency was removed for saving disk space.
